@@ -1,0 +1,201 @@
+employee_id,first_name,last_name,email,phone,ssn,date_of_birth,salary,department,job_title,location,hire_date,employment_status,performance_rating,manager_id
+EMP00001,Jackie,White,perrycourtney@robinson-bender.com,351-499-3402x848,713-62-2193,1962-09-20,51437.84,HR,Recruiter,Phoenix,2021-07-04,Active,Below Expectations,EMP00029
+EMP00002,Lisa,Johnson,qgardner@smith.com,+1-544-777-6136x243,240-14-6718,1983-05-21,111155.1,Legal,Compliance Officer,Chicago,2018-01-10,Active,Outstanding,EMP00032
+EMP00003,Elizabeth,Williams,jamessantana@alvarado-davenport.com,+1-612-843-3374x6962,326-71-2073,1987-05-02,,Marketing,Content Analyst,Seattle,2019-06-24,Active,Below Expectations,EMP00045
+EMP00004,Alexandria,Martinez,brenda37@martin-trujillo.com,7605015735,474-78-3625,1992-08-16,153647.24,Legal,Legal Counsel,Los Angeles,2019-07-04,Active,Meets Expectations,EMP00018
+EMP00005,Erin,Bradford,brett20@nguyen.com,(985)408-3412x1582,054-40-4185,1972-08-18,179945.18,Finance,CFO,Seattle,2023-04-12,Active,Exceeds Expectations,EMP00041
+EMP00006,Shane,Hooper,clarkecynthia@anderson-white.com,+1-325-829-6935x61340,019-53-4072,1996-03-31,,Marketing,SEO Specialist,Boston,2018-03-06,Active,Meets Expectations,EMP00039
+EMP00007,William,Ellis,amybrown@long-holmes.org,(655)617-7678x175,883-29-4104,1973-11-13,69950.07,Operations,Logistics Coordinator,Chicago,2018-06-27,Active,Outstanding,EMP00033
+EMP00008,Corey,Dorsey,davidhenry@wheeler.com,9213805708,370-68-2110,1994-03-09,168037.12,Legal,Compliance Officer,New York,2021-08-24,Inactive,Exceeds Expectations,EMP00047
+EMP00009,Christina,Hodges,hailey32@delacruz.net,001-364-627-7056x9250,339-44-1924,1975-01-17,111523.35,Engineering,Software Engineer,Dallas,2019-04-06,Active,Meets Expectations,EMP00002
+EMP00010,Erin,Kelley,amanda34@kennedy.com,001-911-206-2276x96571,270-77-3209,2002-06-24,114587.8,Finance,Financial Analyst,San Francisco,2018-10-28,Active,Exceeds Expectations,EMP00023
+EMP00011,Melanie,Gallagher,holtchristine@jordan.info,569-240-9024,587-30-2239,2003-11-24,147087.91,Engineering,Data Engineer,Phoenix,2020-05-08,Active,Below Expectations,EMP00050
+EMP00012,Karen,Anderson,imorgan@white.com,(491)622-9428x4862,675-64-8125,1984-02-08,176436.04,Engineering,Software Engineer,Los Angeles,2022-10-22,Active,Meets Expectations,EMP00022
+EMP00013,Malik,Wilkins,walkerjessica@romero.com,+1-388-603-4428x75519,497-98-0379,1988-10-11,102582.53,Finance,Financial Analyst,Phoenix,2019-11-25,Active,Outstanding,EMP00033
+EMP00014,James,Williams,wilsonryan@saunders.info,596.774.4644x916,638-55-3142,1966-07-18,144328.86,Engineering,DevOps Engineer,Los Angeles,2020-07-14,Active,Below Expectations,EMP00007
+EMP00015,Shane,Watson,martinezmichael@thomas.com,938-377-4514x685,740-42-5210,1986-07-18,83690.01,Operations,Operations Manager,Los Angeles,2018-05-14,On Leave,Outstanding,EMP00027
+EMP00016,Jodi,Proctor,whuber@johnson.com,001-329-861-9663,607-41-8118,1969-09-21,95817.38,Engineering,ML Engineer,Phoenix,2021-05-21,Active,Exceeds Expectations,EMP00043
+EMP00017,Tracey,Brown,dannystephens@maynard.com,+1-722-639-4019,825-65-7476,1967-08-25,51023.89,Sales,Sales Manager,Boston,2020-03-09,Active,Exceeds Expectations,EMP00041
+EMP00018,Paul,Fowler,foxdebbie@smith.com,+1-870-970-7945x271,294-52-0950,1997-09-18,140704.27,Legal,Legal Counsel,Dallas,2022-04-14,Active,Meets Expectations,EMP00020
+EMP00019,Makayla,Campbell,yvelasquez@edwards-gay.info,+1-822-335-6356,726-05-4322,1969-09-23,99226.22,Legal,Legal Counsel,Dallas,2018-01-19,Inactive,Meets Expectations,EMP00048
+EMP00020,Jennifer,Porter,torresrobert@schroeder.com,001-809-601-3517x47819,636-32-8409,1977-07-13,102240.29,Engineering,ML Engineer,Los Angeles,2018-07-21,Inactive,Below Expectations,EMP00020
+EMP00021,Harold,Gray,erin14@cox.com,266.304.6511,657-85-5469,1982-05-18,157492.83,Finance,Financial Analyst,Los Angeles,2019-01-23,Inactive,Below Expectations,EMP00013
+EMP00022,Joshua,Ramirez,alyssalopez@mason.biz,7934105125,632-36-1570,1968-09-24,119631.24,Operations,Operations Manager,San Francisco,2020-05-21,Active,Below Expectations,EMP00038
+EMP00023,Christopher,Ortiz,molinajohn@lopez.com,+1-968-501-3030x629,603-64-9039,2003-06-16,111607.96,Marketing,SEO Specialist,Miami,2021-06-25,Active,Meets Expectations,EMP00012
+EMP00024,Tracy,West,dyoder@hancock.com,+1-708-808-5375x184,581-79-6841,1986-02-06,68503.36,Sales,Account Executive,New York,2021-04-29,On Leave,Exceeds Expectations,EMP00018
+EMP00025,Kimberly,Crosby,fhayes@miranda-weaver.com,456-996-1057,721-49-8280,2003-01-20,100216.13,Marketing,Content Analyst,Chicago,2022-06-06,Inactive,Meets Expectations,EMP00019
+EMP00026,Jamie,Steele,josephjohnson@garza.com,950-425-6108,769-79-2027,1962-08-19,92933.19,Sales,Sales Manager,New York,2020-04-19,Active,Meets Expectations,EMP00007
+EMP00027,Jeremy,Hernandez,dalemoore@grimes-thompson.com,7809337550,503-84-2341,1965-12-06,70922.68,Sales,Sales Manager,Los Angeles,2022-05-20,Active,Outstanding,EMP00047
+EMP00028,Lisa,Decker,sotomark@johnson.net,(678)712-1554x10920,852-70-0383,1987-02-19,83887.13,Marketing,Marketing Manager,Houston,2022-06-14,Active,Below Expectations,EMP00030
+EMP00029,Jennifer,Mcdaniel,moorekimberly@herman.com,392-828-3760,525-63-0044,1972-12-08,92692.66,Marketing,Marketing Manager,Chicago,2019-07-05,Active,Below Expectations,EMP00031
+EMP00030,Donald,Sullivan,dsalazar@davis-berry.com,9222515667,457-52-9103,1996-08-14,173686.45,Legal,Compliance Officer,Chicago,2019-10-21,On Leave,Meets Expectations,EMP00039
+EMP00031,Robert,Lyons,,424.577.1099,744-64-8318,1979-04-24,97346.9,Finance,Financial Analyst,Houston,2023-02-26,On Leave,Outstanding,EMP00040
+EMP00032,Cristina,Mitchell,ttaylor@sparks.com,+1-541-932-5327x1286,849-03-0535,1980-08-20,123181.09,Finance,CFO,Dallas,2020-01-05,Active,Outstanding,EMP00035
+EMP00033,Charles,Allen,kwinters@jones.info,592.685.1216,605-46-9737,1966-05-10,92634.29,Engineering,DevOps Engineer,Miami,2022-11-13,Active,Meets Expectations,EMP00047
+EMP00034,Linda,Paul,uhart@ferguson.com,(237)239-9019x89332,249-39-6972,2001-02-12,149507.97,Engineering,Data Engineer,Dallas,2018-04-08,Active,Exceeds Expectations,EMP00043
+EMP00035,Renee,Gray,morrowjames@anderson.com,001-575-584-4288x454,667-67-9050,1991-01-13,57137.43,HR,Compensation Analyst,Dallas,2021-07-21,Active,Outstanding,EMP00008
+EMP00036,Pam,Townsend,allison15@perkins-miller.org,834.308.2707,822-32-2448,1998-10-10,132993.86,Finance,Accountant,New York,2020-09-09,Inactive,Meets Expectations,EMP00028
+EMP00037,Philip,Scott,michaelahatfield@crane.com,+1-516-475-0841x075,326-08-0564,1989-11-22,76053.83,Sales,Account Executive,New York,2022-04-07,Active,Outstanding,EMP00040
+EMP00038,Deborah,Taylor,jeremygarrett@johnson.com,+1-996-666-7044,110-61-3609,1985-06-27,77377.32,HR,HR Manager,Miami,2022-03-31,Active,Outstanding,EMP00037
+EMP00039,John,Peterson,akaufman@jennings-bennett.com,351.209.3794,256-63-7632,1967-05-20,65039.31,Marketing,Brand Manager,Chicago,2018-01-06,Active,Below Expectations,EMP00047
+EMP00040,Thomas,Robertson,nicolehuynh@morales.net,779-968-8810,347-41-4001,1994-06-10,114579.79,Marketing,Marketing Manager,Miami,2021-10-14,Active,Exceeds Expectations,EMP00017
+EMP00041,Samantha,Adams,robertaduarte@lopez.com,280-531-1218x8261,197-69-5711,1995-06-23,152638.79,Engineering,ML Engineer,Boston,2018-06-28,Active,Outstanding,EMP00043
+EMP00042,Daniel,Chung,mcconnellalan@mccoy.org,(548)257-5034x607,444-37-6817,1995-12-19,,Engineering,ML Engineer,Seattle,2021-11-13,Inactive,Below Expectations,EMP00005
+EMP00043,Anthony,Curtis,uestes@cabrera.biz,+1-990-471-5943x0474,871-85-2722,1989-09-21,63671.78,Sales,BDR,Dallas,2018-01-08,Inactive,Outstanding,EMP00034
+EMP00044,Kyle,Savage,juliadavis@rogers-ross.info,001-203-832-8357,340-02-5644,1995-04-20,114990.62,Finance,Budget Analyst,Boston,2021-02-19,Active,Exceeds Expectations,EMP00049
+EMP00045,Taylor,Jennings,daltoncynthia@oliver.com,001-829-574-7927x0733,010-85-0998,1966-05-30,171968.61,Legal,Legal Counsel,Houston,2023-01-19,Active,Meets Expectations,EMP00028
+EMP00046,Edward,Johnson,maynardrobert@hebert-harris.com,+1-632-924-3413x86688,869-15-4309,1996-02-21,95705.6,Finance,CFO,Chicago,2021-07-13,Active,Outstanding,EMP00046
+EMP00047,Brian,Coleman,ncastro@garcia-garcia.net,+1-639-485-6135x190,375-63-1982,1999-02-01,60916.01,Sales,BDR,Los Angeles,2018-11-06,Inactive,Outstanding,EMP00024
+EMP00048,Sharon,Tran,justinpreston@gaines.com,237.579.4055x64862,642-46-1892,1985-06-10,83420.93,HR,HR Analyst,Dallas,2018-04-15,Active,Exceeds Expectations,EMP00018
+EMP00049,Christian,Johnson,sheltonann@wright.org,+1-327-582-8738x752,663-71-5265,1968-07-25,145042.62,Finance,CFO,New York,2020-02-18,Active,Exceeds Expectations,EMP00023
+EMP00050,Joseph,Walker,amartin@andrews.biz,(206)475-5019x7204,729-86-6173,1983-04-12,99482.69,Operations,Logistics Coordinator,Boston,2020-07-30,Active,Below Expectations,EMP00041
+EMP00051,Jamie,Williams,michael74@kaufman.com,001-501-438-1450,841-42-3998,1966-06-24,58844.74,HR,Recruiter,Phoenix,2018-02-09,Active,Exceeds Expectations,EMP00034
+EMP00052,Sandra,Garcia,hmunoz@williams.net,219.656.5251x5156,610-21-8606,1999-11-07,165469.0,Legal,Paralegal,Miami,2019-04-11,On Leave,Meets Expectations,EMP00043
+EMP00053,Jasmine,Jordan,qpratt@payne-jones.com,(469)768-2477x93326,649-79-2883,2000-02-24,87203.28,HR,HR Analyst,Dallas,2021-06-09,Active,Meets Expectations,EMP00039
+EMP00054,Sean,Smith,danielthompson@mcdonald.com,471-750-3462x077,097-78-3401,1963-04-01,61480.3,HR,Recruiter,Phoenix,2020-02-27,Inactive,Exceeds Expectations,EMP00011
+EMP00055,Jessica,Johnson,richard13@johnson-simmons.com,876.759.6560x32853,523-66-0686,1968-11-26,94308.75,Engineering,DevOps Engineer,Boston,2018-11-01,On Leave,Outstanding,EMP00042
+EMP00056,Jaclyn,Sullivan,ejones@carroll-edwards.info,974-958-0882x0127,291-79-4359,1963-04-23,108910.59,Operations,Logistics Coordinator,New York,2022-06-05,Active,Outstanding,EMP00015
+EMP00057,Eric,Jones,malonejason@clark.com,(672)820-4024x19727,300-87-1931,1971-08-07,89735.11,Marketing,Brand Manager,Phoenix,2021-09-02,Active,Outstanding,EMP00024
+EMP00058,Tracey,Myers,lekaren@king.info,(632)792-5001x49902,741-17-3062,1993-10-21,161743.7,Engineering,Software Engineer,Chicago,2018-07-18,Active,Below Expectations,EMP00028
+EMP00059,James,White,dawn06@williams.com,649-738-6496x40593,880-68-9220,1967-12-16,66515.57,HR,HR Analyst,Los Angeles,2019-03-23,Active,Meets Expectations,EMP00012
+EMP00060,Carrie,Parker,lindsey35@mueller.biz,3238261119,336-28-5283,1998-05-11,169125.8,Finance,Accountant,Phoenix,2020-10-06,Active,Exceeds Expectations,EMP00014
+EMP00061,Travis,Murray,millerthomas@cooper.org,9107847119,357-79-2464,1977-02-17,92990.89,Legal,Paralegal,Chicago,2021-05-12,On Leave,Outstanding,EMP00026
+EMP00062,Victor,Murillo,darryl92@george-martin.org,001-752-453-3619x41576,030-02-0547,1999-04-30,86336.29,Sales,Sales Analyst,Los Angeles,2018-04-26,Active,Meets Expectations,EMP00011
+EMP00063,Jennifer,Lawson,toddgibson@blackburn.org,920.601.3106x63040,896-65-5794,1965-12-11,113223.33,Marketing,Marketing Manager,Boston,2020-07-11,Active,Outstanding,EMP00040
+EMP00064,John,Deleon,phillipsangela@robertson.com,893.345.3864x196,361-13-3588,1970-01-20,87039.8,Marketing,Marketing Manager,San Francisco,2020-10-27,Active,Outstanding,EMP00035
+EMP00065,Ethan,Jones,powersbreanna@sanchez.com,652-508-2682x7316,384-76-3389,1989-04-10,95398.07,Sales,Account Executive,Phoenix,2021-05-10,Active,Outstanding,EMP00021
+EMP00066,Christine,Carey,johnjacobson@davis-conrad.com,+1-255-732-7541x7408,169-72-1447,1966-06-26,119107.42,Operations,Operations Manager,Dallas,2022-05-24,Inactive,Exceeds Expectations,EMP00015
+EMP00067,Janet,Fowler,shahmary@barry.com,569.594.8144x559,750-24-7013,1974-11-26,133733.37,Legal,Paralegal,Boston,2023-04-10,Active,Exceeds Expectations,EMP00042
+EMP00068,Joseph,Williams,joshua97@reynolds.org,001-776-744-3141x431,646-73-5080,1995-03-07,68053.25,Sales,BDR,Seattle,2020-01-24,Active,Outstanding,EMP00015
+EMP00069,Krista,Hamilton,nancy12@hawkins.com,(625)813-0907x56629,450-12-7474,1998-03-22,94702.61,HR,HR Analyst,Miami,2022-12-30,Inactive,Exceeds Expectations,EMP00024
+EMP00070,Margaret,Sutton,utaylor@martinez.com,219.582.9068x885,248-86-3117,1997-01-26,83047.64,Operations,Supply Chain Analyst,Chicago,2021-07-11,Active,Outstanding,EMP00048
+EMP00071,Virginia,Fritz,burkejeffrey@lee.com,+1-592-604-2851x99250,280-25-0962,1998-11-18,172794.08,Engineering,Software Engineer,Houston,2018-12-30,Active,Outstanding,EMP00048
+EMP00072,Matthew,Brown,igould@french.com,292-901-3075,022-05-6819,2001-10-19,175921.89,Legal,Legal Counsel,New York,2018-02-26,Inactive,Meets Expectations,EMP00030
+EMP00073,Raymond,Newman,george86@cunningham-jenkins.com,(517)369-8134x017,445-70-0204,1978-08-14,92655.87,Operations,Operations Manager,Phoenix,2019-04-15,Active,Outstanding,EMP00013
+EMP00074,Stephen,Bell,stephaniemurray@lynch.com,+1-767-343-8215x28349,628-15-8645,1978-08-03,70295.71,HR,HR Manager,Phoenix,2019-10-10,Active,Outstanding,EMP00049
+EMP00075,Austin,Duke,hollowayerika@harmon.net,001-576-217-7345x82580,811-60-8180,1970-10-08,139712.13,Legal,Paralegal,San Francisco,2022-11-13,Active,Outstanding,EMP00025
+EMP00076,Melissa,Le,joseph04@brown.org,+1-276-427-2391x84214,782-44-7202,1970-12-10,95930.83,Operations,Supply Chain Analyst,New York,2019-03-23,Inactive,Outstanding,EMP00010
+EMP00077,Lauren,Blankenship,davidyoung@martinez-west.com,388.853.9747,243-44-8943,1972-08-12,93489.32,Operations,Supply Chain Analyst,San Francisco,2021-11-11,On Leave,Exceeds Expectations,EMP00014
+EMP00078,Erin,Phillips,richardlawrence@parker.com,681.515.5081x5157,858-95-8494,2000-11-06,80430.64,Sales,Sales Analyst,Seattle,2023-02-22,Active,Outstanding,EMP00040
+EMP00079,James,White,,(644)731-9843x43880,114-91-4686,1961-03-28,109974.58,Marketing,Brand Manager,Los Angeles,2019-02-04,Active,Meets Expectations,EMP00001
+EMP00080,Rebecca,Brewer,maxwelltanner@morse.biz,001-447-572-2457x7102,053-49-9100,1991-04-29,60885.35,Sales,Account Executive,San Francisco,2018-07-01,Active,Outstanding,EMP00040
+EMP00081,Nicole,Rodriguez,maryholt@shepherd.com,920.249.9370x0494,455-96-3880,1977-12-26,50626.57,HR,HR Manager,Dallas,2020-07-25,Active,Meets Expectations,EMP00040
+EMP00082,Sierra,Smith,schneiderjohn@shepherd.biz,429.882.8130x7556,477-83-4099,1994-02-12,66233.21,Sales,Account Executive,Boston,2018-03-29,On Leave,Meets Expectations,EMP00026
+EMP00083,Michelle,Johnson,adamshaley@mcdonald.info,(313)613-6930,570-55-8180,1968-03-08,149728.49,Engineering,Data Engineer,Seattle,2020-10-15,Active,Outstanding,EMP00031
+EMP00084,James,Cruz,bradleyperez@nicholson.org,302-977-7087x25225,181-70-8162,1999-03-23,53587.77,HR,HR Manager,Dallas,2019-03-20,Active,Below Expectations,EMP00044
+EMP00085,Sean,Love,njackson@robinson-madden.com,001-647-764-6230,557-98-7294,1971-09-15,158559.19,Engineering,ML Engineer,Houston,2022-04-03,Active,Below Expectations,EMP00004
+EMP00086,Katherine,Padilla,pamela71@deleon-jacobs.org,577-742-9901x16154,137-02-9069,1990-09-03,99549.01,Engineering,Software Engineer,San Francisco,2021-12-12,Active,Meets Expectations,EMP00010
+EMP00087,Justin,Richardson,georgemullins@roach-roy.com,001-231-303-4657,576-77-0773,1971-10-01,67121.14,HR,Compensation Analyst,Miami,2020-04-13,Inactive,Exceeds Expectations,EMP00018
+EMP00088,Danielle,Ibarra,clinton47@kennedy.biz,001-279-410-0193x012,796-40-0822,1978-04-11,98383.79,Legal,Compliance Officer,Miami,2022-09-13,Active,Outstanding,EMP00028
+EMP00089,Aaron,Sanchez,kmorales@salazar-wells.com,772.636.4064,395-50-4025,1987-04-07,70390.58,Marketing,Brand Manager,Seattle,2021-10-16,On Leave,Exceeds Expectations,EMP00020
+EMP00090,Mary,Brooks,qcase@edwards.com,+1-535-940-7475,707-26-5140,1971-12-08,85466.54,Sales,Sales Manager,Dallas,2021-04-18,Inactive,Below Expectations,EMP00015
+EMP00091,Aaron,Patel,andreasnyder@wright.com,+1-315-364-4091,425-50-0081,1997-03-20,88414.54,Marketing,Content Analyst,Los Angeles,2019-01-06,Active,Meets Expectations,EMP00016
+EMP00092,Jared,Wilson,aguilarharold@french-moore.org,(540)872-9775,698-77-7968,1997-09-06,127499.77,Finance,Accountant,Houston,2021-12-19,Active,Below Expectations,EMP00044
+EMP00093,Paul,Hall,christinele@mcdowell.org,9888860840,804-80-3728,1964-07-07,111767.16,Legal,Legal Counsel,Phoenix,2019-06-18,On Leave,Exceeds Expectations,EMP00004
+EMP00094,Andrea,Thomas,xgreene@davis.biz,(351)320-8375,737-35-6289,1969-07-17,75666.76,Sales,BDR,Houston,2021-10-28,Inactive,Meets Expectations,EMP00008
+EMP00095,Timothy,Frost,mmiranda@parks-richards.org,(939)206-6262,687-99-9077,1968-05-14,130645.32,Engineering,DevOps Engineer,San Francisco,2019-09-26,On Leave,Meets Expectations,EMP00039
+EMP00096,Jesus,Mckinney,derek50@mckinney.org,+1-555-585-6879x4861,870-84-2072,1971-03-07,93958.03,Operations,Supply Chain Analyst,Seattle,2020-04-29,Active,Exceeds Expectations,EMP00012
+EMP00097,Tyler,Mann,dmiller@campbell-gonzalez.info,3446417633,690-17-7174,1980-01-20,83679.25,Marketing,Brand Manager,Boston,2020-10-28,Active,Outstanding,EMP00025
+EMP00098,John,Martinez,wilsonsteven@torres.com,001-778-436-8954x634,436-62-1749,1972-06-22,78704.16,Sales,Sales Analyst,Dallas,2018-04-28,Active,Exceeds Expectations,EMP00041
+EMP00099,Jessica,Chen,michaelanthony@davis.com,001-366-801-9851x35408,636-31-0961,1998-07-15,87141.0,Operations,Supply Chain Analyst,Miami,2022-01-22,Active,Meets Expectations,EMP00014
+EMP00100,Allison,Phillips,janet75@white.com,467.446.8614,289-14-4670,1997-04-06,138573.28,Legal,Compliance Officer,San Francisco,2021-02-17,On Leave,Below Expectations,EMP00017
+EMP00101,Jessica,Velez,davidcarter@young.info,528.334.3429,646-41-4114,1987-06-21,83375.16,Marketing,SEO Specialist,Houston,2023-03-30,On Leave,Meets Expectations,EMP00009
+EMP00102,Jorge,Liu,whitemonique@atkinson-hart.com,653-214-1975,393-02-3896,1978-09-20,89581.94,Operations,Supply Chain Analyst,Miami,2022-06-01,Active,Meets Expectations,EMP00015
+EMP00103,Matthew,Johnson,griffinangela@duke-benton.com,5425364993,146-21-9802,1989-02-25,116248.41,Marketing,Marketing Manager,Dallas,2018-10-04,On Leave,Below Expectations,EMP00033
+EMP00104,Amanda,Nguyen,hensongregory@hall-richards.com,328.406.0824x18114,092-53-6646,2001-12-05,94370.25,HR,HR Manager,San Francisco,2020-12-01,Active,Meets Expectations,EMP00044
+EMP00105,Jamie,Preston,amycoffey@ford-hunter.com,+1-399-843-2120x3325,873-65-4456,1985-11-09,109755.17,Finance,CFO,San Francisco,2023-05-29,Active,Outstanding,EMP00049
+EMP00106,Thomas,Lee,alicia53@humphrey.com,547.246.8891x59849,800-94-6735,1970-02-20,77237.59,Sales,Account Executive,Chicago,2020-08-02,Active,Outstanding,EMP00021
+EMP00107,Sarah,Carrillo,xclark@martin.info,(684)889-4860,356-43-7706,1986-07-16,88960.81,Operations,Supply Chain Analyst,San Francisco,2022-08-25,Active,Meets Expectations,EMP00026
+EMP00108,Kayla,Rush,colelee@burton.info,(963)989-0486x20716,777-20-7943,1984-12-13,148928.48,Finance,Budget Analyst,Seattle,2023-03-16,Active,Outstanding,EMP00042
+EMP00109,Karina,Moore,veronicagray@cline-khan.com,208.874.7953x20458,,1985-12-12,73336.68,Marketing,Content Analyst,New York,2018-03-24,Active,Below Expectations,EMP00004
+EMP00110,Melissa,Collier,stephen09@chan.biz,555.429.7777,868-01-4804,1969-12-30,67621.27,Operations,Operations Manager,San Francisco,2018-12-13,Active,Outstanding,EMP00038
+EMP00111,Emily,Kelly,klong@fowler-chavez.biz,429.299.8485x31752,697-43-2366,1976-05-11,67290.92,Operations,Supply Chain Analyst,Dallas,2022-04-14,Active,Meets Expectations,EMP00022
+EMP00112,Jimmy,Rivera,davidsonwilliam@davidson.com,(619)906-8751,703-83-5922,1973-09-10,68010.82,Sales,BDR,Los Angeles,2019-01-08,Active,Exceeds Expectations,EMP00020
+EMP00113,Steven,Green,imays@reese-hogan.com,(435)224-4982x80346,667-94-7723,1978-03-07,57733.13,Sales,BDR,Phoenix,2019-09-29,Active,Exceeds Expectations,EMP00040
+EMP00114,Janet,Tate,allisonharris@galvan.net,654.886.3775x319,431-59-1643,1961-10-07,116516.28,Legal,Legal Counsel,Boston,2019-10-27,Active,Outstanding,EMP00041
+EMP00115,Ryan,Rose,vyoung@elliott.info,(490)783-9760,151-96-0654,1988-10-19,75367.05,Sales,Sales Analyst,Los Angeles,2018-12-14,On Leave,Exceeds Expectations,EMP00005
+EMP00116,Billy,Johnson,kanderson@summers-estes.org,308-221-4005,565-51-0099,1963-04-22,69873.97,Sales,Sales Manager,Houston,2020-05-03,Active,Below Expectations,EMP00001
+EMP00117,Gina,Smith,johnsonlindsey@doyle.org,882-638-7223,297-44-1669,1985-11-21,61335.09,HR,HR Manager,Phoenix,2018-08-26,Inactive,Meets Expectations,EMP00039
+EMP00118,Jennifer,Benjamin,wcarlson@walker.org,001-843-631-3446x4802,538-45-5010,1999-03-24,66890.22,Operations,Operations Manager,Los Angeles,2019-06-28,Inactive,Meets Expectations,EMP00032
+EMP00119,Gabriel,White,christopherbell@bowen.biz,001-404-904-4948x866,858-30-0849,1963-12-05,114355.65,Operations,Operations Manager,Los Angeles,2021-10-06,Active,Below Expectations,EMP00030
+EMP00120,Brittany,Bryant,rpowell@bean.com,2486713514,553-82-1733,1989-07-28,108528.18,Finance,Financial Analyst,Houston,2022-04-06,Active,Outstanding,EMP00017
+EMP00121,Kenneth,Mckinney,blackeric@ali-harrington.com,285.368.6324x83782,892-77-9663,1976-02-08,107093.14,Marketing,Marketing Manager,Chicago,2019-10-13,Active,Below Expectations,EMP00007
+EMP00122,Robert,Hunt,clamb@small-brown.com,2476341002,807-41-1056,2000-03-20,126118.55,Engineering,Software Engineer,Dallas,2019-01-02,Active,Meets Expectations,EMP00019
+EMP00123,James,Phillips,wendy79@lamb.com,9575795599,377-77-2183,1986-12-10,117358.14,Legal,Legal Counsel,Boston,2020-11-25,Active,Below Expectations,EMP00011
+EMP00124,Anita,Watson,gregorymartinez@wallace-cruz.org,(850)334-2337x529,212-89-1667,1989-11-25,86520.02,Sales,BDR,Dallas,2018-07-08,Active,Below Expectations,EMP00034
+EMP00125,Brittany,Moore,jacob08@smith.com,001-909-999-9548x57584,010-62-9780,1996-08-27,95793.31,HR,HR Manager,Phoenix,2022-03-10,Inactive,Exceeds Expectations,EMP00014
+EMP00126,Amanda,Phillips,tbautista@rodgers-williams.org,+1-739-954-3381x911,543-99-1604,1977-01-10,90709.01,Sales,Sales Analyst,Houston,2018-07-22,On Leave,Exceeds Expectations,EMP00031
+EMP00127,Douglas,Pittman,bairdmary@roberts.net,4237145864,743-22-2129,1995-07-09,116559.22,Operations,Operations Manager,Los Angeles,2022-03-12,Active,Meets Expectations,EMP00008
+EMP00128,Tyler,Schneider,williamsveronica@arnold-moyer.com,+1-991-257-4001x7172,524-66-9133,1977-01-12,96415.58,HR,HR Manager,Miami,2022-10-21,Active,Meets Expectations,EMP00024
+EMP00129,Sandra,Cobb,joebates@harding.com,824-798-7109x43792,757-57-8935,1994-03-24,103830.8,Marketing,Content Analyst,New York,2022-09-27,Active,Meets Expectations,EMP00030
+EMP00130,Marc,Miller,ccook@powell.com,001-482-228-0045x0665,615-22-0227,1981-06-23,73967.69,Operations,Logistics Coordinator,Los Angeles,2020-12-24,On Leave,Meets Expectations,EMP00027
+EMP00131,Crystal,Owens,ybaker@woods.com,(317)662-5807,765-25-7641,2001-03-10,107901.7,Engineering,Software Engineer,Boston,2020-01-26,Active,Exceeds Expectations,EMP00028
+EMP00132,Sydney,Washington,juananderson@clark.biz,434-754-9011x9887,470-49-3881,1962-06-03,135255.15,Finance,Financial Analyst,Los Angeles,2019-05-23,Active,Exceeds Expectations,EMP00019
+EMP00133,Glenda,Williamson,jherrera@johnson-dyer.com,(921)424-9235,518-58-0505,1969-06-13,170191.38,Engineering,ML Engineer,Los Angeles,2023-05-14,Active,Outstanding,EMP00036
+EMP00134,Dale,Patton,davisdaniel@williams.com,001-240-921-9403x13098,543-11-1699,1992-10-11,106771.1,Engineering,Software Engineer,Dallas,2022-07-17,Active,Outstanding,EMP00050
+EMP00135,Christopher,Ramirez,alexisbates@french.com,+1-517-935-7318x635,432-03-5560,1994-01-19,84183.28,Sales,Account Executive,Dallas,2019-10-25,On Leave,Below Expectations,EMP00049
+EMP00136,Debra,Cole,terristeele@dickerson.com,839-721-5898x71333,079-79-6327,1972-02-06,162689.17,Legal,Compliance Officer,Houston,2022-04-15,Inactive,Outstanding,EMP00018
+EMP00137,Timothy,Alexander,lynn36@king.info,961-730-5560x808,607-95-1865,2002-05-19,127292.48,Engineering,ML Engineer,Phoenix,2022-11-26,Inactive,Below Expectations,EMP00002
+EMP00138,Tracy,Smith,zchaney@martinez-leon.info,771-761-0291,433-09-9177,1978-08-04,106912.75,Operations,Supply Chain Analyst,San Francisco,2022-09-22,Inactive,Meets Expectations,EMP00008
+EMP00139,Ann,Smith,costarobert@gonzalez-gonzalez.biz,270-211-4674x133,338-65-3124,1974-06-19,92743.52,HR,HR Manager,Boston,2019-05-10,Active,Meets Expectations,EMP00002
+EMP00140,Jacob,Kelly,paulyoung@moore.com,788.747.4093x20699,717-84-7222,1970-06-22,149723.92,Engineering,ML Engineer,San Francisco,2020-05-09,Active,Meets Expectations,EMP00034
+EMP00141,Lisa,Brown,helen06@clark.com,001-946-322-0545x268,780-91-1105,1968-10-20,94722.74,HR,Recruiter,Chicago,2018-04-12,Active,Meets Expectations,EMP00010
+EMP00142,Bethany,Hood,wolfwilliam@jackson-smith.com,001-439-455-5889x22972,542-15-4650,1983-11-06,177068.18,Legal,Legal Counsel,Chicago,2019-05-06,Active,Outstanding,EMP00039
+EMP00143,Taylor,Whitney,zsmith@rodriguez.com,5019478009,858-83-0858,1980-01-23,51182.0,Sales,BDR,Miami,2020-01-03,Inactive,Exceeds Expectations,EMP00041
+EMP00144,Charles,Williams,shari99@mcdaniel.org,865-676-7192x057,509-33-7742,1984-05-26,98297.78,HR,HR Analyst,Los Angeles,2018-01-01,Inactive,Meets Expectations,EMP00025
+EMP00145,Martin,Smith,hubbardlindsey@johnson.info,747.645.1148,326-59-8006,1966-10-02,53394.84,HR,Recruiter,New York,2023-02-16,Active,Exceeds Expectations,EMP00031
+EMP00146,Joshua,Marks,mackdaniel@tanner-larson.org,959.214.6736x401,270-81-4665,1997-06-22,76622.52,Operations,Operations Manager,Dallas,2019-09-09,Active,Below Expectations,EMP00021
+EMP00147,Karen,Berg,hobbssabrina@parrish.com,719-572-2718,394-61-1636,1982-10-29,79222.24,Marketing,Marketing Manager,San Francisco,2019-02-17,Active,Below Expectations,EMP00029
+EMP00148,Gregory,Blair,rhansen@smith-glover.net,497.427.4217,122-19-5901,1979-05-11,129791.29,Legal,Paralegal,Phoenix,2018-05-22,Active,Below Expectations,EMP00019
+EMP00149,Carolyn,Hogan,paulhenderson@wolfe.com,+1-737-544-9906x2729,478-59-4513,1987-10-28,108013.07,Marketing,Content Analyst,Houston,2021-09-08,Active,Below Expectations,EMP00015
+EMP00150,Robert,Fox,samuelstone@johnson.com,(802)259-4565,246-85-6982,1969-02-18,94928.99,Sales,BDR,Dallas,2021-07-24,Inactive,Outstanding,EMP00029
+EMP00151,Lisa,Diaz,bgoodwin@clark.com,001-545-531-9303x46951,156-08-0044,1998-07-19,69796.89,Marketing,SEO Specialist,Dallas,2020-01-04,Inactive,Outstanding,EMP00049
+EMP00152,Amanda,Castillo,kristinherrera@herman.com,6714720842,772-45-6518,1979-11-12,111876.45,Engineering,Software Engineer,Chicago,2018-07-24,Active,Exceeds Expectations,EMP00017
+EMP00153,Katherine,Martin,sara35@townsend.net,+1-716-530-2452x06156,081-95-4220,1971-10-29,90564.2,Operations,Operations Manager,Boston,2020-01-08,Active,Meets Expectations,EMP00033
+EMP00154,Joshua,Anderson,colemanelizabeth@walters-wright.info,(397)841-1336x620,722-06-8481,2001-06-10,138077.27,Legal,Compliance Officer,Phoenix,2020-12-27,Inactive,Below Expectations,EMP00014
+EMP00155,Mary,Mckee,wthompson@richards-juarez.com,(253)402-0294x31966,853-80-2407,1989-03-26,103764.17,Finance,Budget Analyst,San Francisco,2021-05-06,Inactive,Exceeds Expectations,EMP00033
+EMP00156,William,Campbell,wsanders@wilson-brock.biz,001-819-853-3310x528,129-25-9149,1984-02-03,84120.18,HR,HR Analyst,New York,2021-09-29,Active,Exceeds Expectations,EMP00008
+EMP00157,Kerry,Simpson,kristinwalters@huang-reyes.com,+1-682-972-4759,805-21-8330,1971-11-13,158225.33,Engineering,ML Engineer,New York,2019-10-04,Active,Below Expectations,EMP00012
+EMP00158,Angela,Jordan,jamessaunders@johnson.org,(747)453-2997x08937,862-77-2952,1983-08-21,77855.56,Sales,BDR,Boston,2021-04-01,Inactive,Outstanding,EMP00007
+EMP00159,Holly,Guzman,baileyrobert@scott.biz,+1-839-618-7771x7532,283-75-9774,1997-12-05,118861.86,Marketing,Content Analyst,Houston,2021-03-01,Active,Below Expectations,EMP00010
+EMP00160,David,Carter,annewarren@waters.org,+1-752-685-2348x889,683-55-2865,1971-09-27,115075.71,Marketing,SEO Specialist,Boston,2022-08-20,Active,Below Expectations,EMP00038
+EMP00161,James,Freeman,michael99@ho.com,8298529767,603-67-5366,1969-01-17,111826.62,Engineering,Software Engineer,Seattle,2021-07-09,Active,Exceeds Expectations,EMP00006
+EMP00162,Kara,Taylor,yrice@jones-davis.com,655.886.3071x648,879-12-7743,1993-12-06,51683.38,Sales,Account Executive,Seattle,2019-04-26,Active,Meets Expectations,EMP00006
+EMP00163,Cody,Arnold,cynthiacook@ross.net,403-455-2188x50304,008-79-9847,2000-01-24,60956.25,Operations,Logistics Coordinator,Miami,2021-07-17,Active,Below Expectations,EMP00035
+EMP00164,Pamela,Cummings,sloanchristopher@warren.com,+1-737-807-2526x58182,180-52-6131,1976-06-23,94830.28,HR,Compensation Analyst,Dallas,2018-12-20,Active,Below Expectations,EMP00013
+EMP00165,Allison,Webb,clarkmolly@mendez.com,+1-496-830-5886,035-36-6607,1995-07-06,87134.87,HR,Recruiter,Dallas,2022-06-28,Inactive,Exceeds Expectations,EMP00019
+EMP00166,Joseph,Cohen,parksbrian@anthony-gonzalez.com,863-957-8320,645-16-1748,1995-08-12,82881.62,Marketing,Brand Manager,Dallas,2020-02-26,Active,Exceeds Expectations,EMP00031
+EMP00167,Alfred,Morgan,jacquelinehubbard@chang.com,5088648196,594-42-0832,1977-09-17,80077.96,Sales,Sales Analyst,Los Angeles,2022-10-28,Active,Below Expectations,EMP00044
+EMP00168,Jose,Morales,anthonykimberly@williams.com,365.759.2710x83043,894-71-5677,1984-02-21,76349.16,Marketing,Content Analyst,Houston,2021-11-19,Active,Meets Expectations,EMP00011
+EMP00169,Tammy,Simmons,mark43@kirby.com,001-457-447-9449,621-11-5420,1972-11-30,100793.0,Marketing,Marketing Manager,Chicago,2019-09-24,On Leave,Exceeds Expectations,EMP00037
+EMP00170,Brittany,White,montgomerysusan@randall.biz,8203176599,805-58-7350,1976-08-11,56441.02,HR,HR Analyst,Houston,2020-10-12,Active,Below Expectations,EMP00042
+EMP00171,Jennifer,Bell,priscillaroberts@ashley-mcfarland.com,+1-722-520-2147x2384,011-17-4897,1970-04-28,91208.61,Sales,BDR,Houston,2019-01-06,Active,Exceeds Expectations,EMP00043
+EMP00172,Amanda,Shaw,eanderson@griffin.com,(953)647-3288x33750,354-15-7534,1964-10-14,101057.11,Legal,Paralegal,Miami,2020-04-10,Inactive,Meets Expectations,EMP00028
+EMP00173,Suzanne,Andrade,djackson@miller.com,432-557-7086,591-68-1805,1982-09-27,89886.42,Sales,BDR,Phoenix,2019-11-05,Active,Outstanding,EMP00003
+EMP00174,Sherry,Scott,allen30@hernandez.info,+1-783-828-4466x460,727-39-2346,1977-06-28,71427.28,Operations,Operations Manager,New York,2020-06-25,Active,Meets Expectations,EMP00009
+EMP00175,Laura,Smith,jennifer09@green-graham.org,4412929639,787-56-7741,1995-06-20,141078.72,Legal,Paralegal,Phoenix,2018-12-28,Active,Below Expectations,EMP00033
+EMP00176,Megan,Taylor,jacob74@wright-brown.net,+1-324-908-4527x44833,064-98-8782,2001-03-04,99056.77,Marketing,Marketing Manager,Dallas,2021-10-23,On Leave,Below Expectations,EMP00033
+EMP00177,David,Kim,davisjessica@martinez.com,719-922-5005x22043,667-13-4364,1965-01-07,149818.39,Legal,Paralegal,Miami,2023-05-26,Active,Outstanding,EMP00046
+EMP00178,Michael,Patel,stephanie71@oneill.com,420-885-6381x07388,739-69-7177,1976-11-09,77892.68,Operations,Supply Chain Analyst,Seattle,2018-08-24,Active,Exceeds Expectations,EMP00023
+EMP00179,Julie,Clayton,ashley58@myers-shannon.biz,001-817-654-4453x13666,523-74-6925,1986-11-10,171631.62,Finance,Budget Analyst,Seattle,2022-10-29,On Leave,Outstanding,EMP00046
+EMP00180,Rodney,Mcdonald,heather03@carr.org,(359)908-6908,676-84-4037,1994-07-08,91794.07,Operations,Operations Manager,New York,2023-03-28,Inactive,Outstanding,EMP00044
+EMP00181,Briana,Davis,whitejoseph@carrillo-cook.net,596.613.0997,397-56-8376,1960-12-25,94104.28,Operations,Supply Chain Analyst,Houston,2021-11-08,Active,Outstanding,EMP00027
+EMP00182,Dale,Lewis,jennymurphy@griffin-lamb.com,547.700.2941,539-99-8555,1972-02-01,91800.18,Sales,BDR,Phoenix,2019-05-10,Active,Below Expectations,EMP00039
+EMP00183,Kimberly,Joseph,abrown@richardson.com,(820)310-5224x694,834-58-9738,2000-07-01,51696.89,HR,Compensation Analyst,Miami,2023-02-28,On Leave,Below Expectations,EMP00016
+EMP00184,Courtney,Arnold,david03@bullock-garrett.com,633.813.1290x053,034-57-4205,1988-07-06,91263.64,Marketing,SEO Specialist,Boston,2020-12-09,On Leave,Below Expectations,EMP00005
+EMP00185,Laura,Pope,brianshaffer@berg.com,(310)627-7425x7815,823-96-6853,1966-04-08,,Operations,Operations Manager,Chicago,2022-06-17,Active,Exceeds Expectations,EMP00037
+EMP00186,Priscilla,Herrera,jennifer39@gray.com,858.950.9039,670-45-5995,1985-02-22,91725.94,HR,HR Manager,Boston,2020-01-07,Inactive,Outstanding,EMP00020
+EMP00187,Elizabeth,Swanson,blackchristopher@miller.com,001-640-741-7225x64484,721-32-6972,2000-12-13,62047.76,Sales,Account Executive,Miami,2021-10-22,Active,Exceeds Expectations,EMP00015
+EMP00188,Lindsey,Walker,ehines@watkins.com,001-569-794-3066x777,586-89-5030,2003-05-19,119705.53,Legal,Compliance Officer,Seattle,2018-06-28,Inactive,Meets Expectations,EMP00043
+EMP00189,Susan,Price,qblake@blevins.org,(676)231-9059,071-43-6764,1961-10-02,145081.97,Finance,Financial Analyst,Boston,2022-12-15,Active,Outstanding,EMP00038
+EMP00190,Kimberly,Osborn,,(812)806-2600x855,768-90-5675,1992-06-03,63266.02,Sales,Sales Analyst,Seattle,2022-07-22,Active,Outstanding,EMP00047
+EMP00191,Lynn,Santiago,julie03@blake.com,001-428-979-8983,745-04-3509,1965-08-16,106031.69,Legal,Paralegal,Dallas,2021-09-07,Inactive,Exceeds Expectations,EMP00026
+EMP00192,David,Perkins,david21@bailey-walker.com,+1-610-502-9416x892,618-50-7673,1994-09-18,97705.27,Operations,Operations Manager,Los Angeles,2019-10-28,Active,Meets Expectations,EMP00046
+EMP00193,John,Davidson,bobby20@white.com,+1-931-985-0209x4064,688-64-0994,1963-11-17,93954.59,Engineering,Software Engineer,Chicago,2018-06-15,Inactive,Meets Expectations,EMP00028
+EMP00194,Dawn,Pope,tsmith@walton.net,750-466-5541x35618,566-88-0421,2000-11-11,100174.75,Marketing,Content Analyst,Los Angeles,2022-04-23,Active,Outstanding,EMP00046
+EMP00195,Stephen,Mccoy,harperjohn@phillips.com,001-706-538-0183x578,524-39-5406,2000-04-14,52112.65,HR,HR Manager,Dallas,2018-06-15,Active,Meets Expectations,EMP00026
+EMP00196,Maria,Huffman,fjohnson@bradford-campos.com,974-202-2164,007-90-5938,1996-11-06,92821.67,Sales,BDR,Boston,2019-07-12,Active,Meets Expectations,EMP00043
+EMP00197,Mario,Peck,tbenson@thompson.com,(933)437-0824x92835,340-80-4874,2003-10-10,62118.82,Operations,Supply Chain Analyst,Los Angeles,2022-05-20,Active,Meets Expectations,EMP00020
+EMP00198,Joan,Ryan,gguzman@guerra-davis.org,001-680-488-0639x546,836-38-7086,1976-12-23,83226.68,Marketing,Marketing Manager,Miami,2019-08-27,Inactive,Meets Expectations,EMP00018
+EMP00199,Destiny,Thomas,matthewchavez@hunt.biz,453-787-9078x79103,041-57-8607,2001-07-03,73144.81,HR,HR Analyst,Chicago,2021-05-10,Inactive,Exceeds Expectations,EMP00026
+EMP00200,Michael,Marshall,hwilliams@kelly-cruz.com,7418768496,523-63-2789,1979-02-04,108137.6,Operations,Logistics Coordinator,Los Angeles,2022-05-20,Inactive,Exceeds Expectations,EMP00005
